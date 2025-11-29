@@ -32,5 +32,7 @@ public class Matrices {
             System.out.println();
         }
         search(matrix, 9);
+
+        sc.close();
     }
 }
