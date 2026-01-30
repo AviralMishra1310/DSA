@@ -1,3 +1,4 @@
+//LC -> 26
 import java.util.*;
 
 public class removeDuplicate {
