@@ -260,54 +260,6 @@ F --> G[Dynamic Programming]
 G --> H[Advanced Patterns + Mock Interviews]
 ```
 
----
-
-# 💻 **How to Use**
-
-### **Clone the repo**
-```bash
-git clone https://github.com/AviralMishra1310/DSA.git
-```
-
-### **Navigate into directory**
-```bash
-cd DSA
-```
-
-### **Run Java files**
-```bash
-javac FileName.java
-java FileName
-```
-
----
-
-# 🤝 **Contribution Guidelines**
-
-We welcome contributions 🚀
-
-### ✔ Steps:
-1. Fork this repo  
-2. Create a new branch  
-3. Add your code  
-4. Make a PR  
-
-### ✔ Rules:
-- Follow clean coding principles  
-- Use meaningful variable names  
-- Add comments wherever needed  
-- Place files in correct folders  
-
----
-
-# 📚 **References**
-- **CLRS – Algorithms Book**  
-- **GeeksForGeeks**  
-- **LeetCode**  
-- **MIT OpenCourseWare**  
-
----
-
 # 🎉 **Thank You!**
 If this helped you, please ⭐ **star the repo** — it motivates continued improvement!
 
