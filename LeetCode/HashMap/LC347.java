@@ -22,4 +22,4 @@ public class LC347 {
 
         return ans;
     }
-}}
+}
