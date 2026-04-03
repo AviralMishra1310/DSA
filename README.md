@@ -1,11 +1,4 @@
 # 📘 **DSA – Data Structures & Algorithms Repository**
-<p align="center">
-  <img src="https://via.placeholder.com/1200x260.png?text=DSA+Mastery+Repository+Banner" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/160.png?text=LOGO" width="140" />
-</p>
 
 <h3 align="center">🚀 Master DSA for Interviews, Competitions & Problem-Solving</h3>
 
